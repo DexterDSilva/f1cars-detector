@@ -12,7 +12,6 @@ Note: These are the cars racing in the 2017 to 2019 season.
 The notebook is based on Jeremy Howard's course-v3/lesson2-download
 from https://github.com/fastai/course-v3
 
-**Setup**
 Nb Classes = 10
 Nb Images/class = 
 108  images in  ferrari
