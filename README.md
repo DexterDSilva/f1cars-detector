@@ -24,8 +24,7 @@ Nb Images/class: \
   123  images in  haas \
   108  images in  sauber\
 
-
-
-Starting batch size
+Starting batch size\
 Starting model = Resnet50
+
 
