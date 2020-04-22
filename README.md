@@ -15,8 +15,8 @@ Nb Classes = 10
 Nb Images/class: \
   108  images in ferrari \
   102  images in  mercedes \
-  118  images in  redbull \ 
-  117  images in  mclaren \ 
+  118  images in  redbull \
+  117  images in  mclaren \
   83  images in  racingpoint \ 
   95  images in  renault \
   120  images in  williams \
