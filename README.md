@@ -10,5 +10,5 @@ Note: These are the cars racing in the 2017 to 2019 season.
 
 Trained using fastai framework on Google colab (GPU)
 
-The notebook was based on Jeremy Howard's course-v3/lesson2-download
+The notebook is based on Jeremy Howard's course-v3/lesson2-download
 from https://github.com/fastai/course-v3
