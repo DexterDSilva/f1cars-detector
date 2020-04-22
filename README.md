@@ -12,3 +12,10 @@ Trained using fastai framework on Google colab (GPU)
 
 The notebook is based on Jeremy Howard's course-v3/lesson2-download
 from https://github.com/fastai/course-v3
+
+
+Nb Classes = 10
+Nb Images/class = 
+Starting batch size
+Starting model = Resnet50
+
