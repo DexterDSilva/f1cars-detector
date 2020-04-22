@@ -14,7 +14,7 @@ from https://github.com/fastai/course-v3
 
 Nb Classes = 10
 Nb Images/class = 
-108  images in  ferrari. 
+108  images in  ferrari\
 102  images in  mercedes. 
 118  images in  redbull.  
 117  images in  mclaren. 
