@@ -12,17 +12,17 @@ The notebook is based on Jeremy Howard's course-v3/lesson2-download
 from https://github.com/fastai/course-v3
 
 Nb Classes = 10
-Nb Images/class: 
-  108  images in ferrari\
-  102  images in  mercedes\
-  118  images in  redbull\ 
-  117  images in  mclaren\ 
-  83  images in  racingpoint\ 
-  95  images in  renault\
-  120  images in  williams\
-  98  images in  tororosso\
-  123  images in  haas\
-  108  images in  sauber
+Nb Images/class: \
+  108  images in ferrari \
+  102  images in  mercedes \
+  118  images in  redbull \ 
+  117  images in  mclaren \ 
+  83  images in  racingpoint \ 
+  95  images in  renault \
+  120  images in  williams \
+  98  images in  tororosso \
+  123  images in  haas \
+  108  images in  sauber\
 
 
 
