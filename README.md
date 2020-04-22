@@ -35,6 +35,7 @@ To create a reasonably clean set of images I downladed the images to my MBP and 
 and deleted the ones that would appear confusing to the nn ie ones with two or more cars, model images, sketches etc
 
 See the f1cars-downloader.ipynb for info on downloading to a local directory\
+The data file is f1cars_images.zip
 
 The image directories can be uploaded to your Google drive
 
