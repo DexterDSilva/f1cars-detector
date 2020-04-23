@@ -6,6 +6,10 @@ Note: These are the cars racing in the 2017 to 2019 season.
 
 ![alt text](https://github.com/DexterDSilva/f1cars-detector/blob/master/fp-1.png "Selection")
 
+#RESULT:
+
+![alt text](https://github.com/DexterDSilva/f1cars-detector/blob/master/fp-2.png "Selection")
+
 
 
 
