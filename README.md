@@ -27,8 +27,6 @@ Nb Images/class: \
   123  images in  haas \
   108  images in  sauber\
 
-Starting batch size\
-Starting model = Resnet50
 
 ## Creating image dataset
 To create a reasonably clean set of images I downladed the images to my MBP and in a Finder window i just scrolled through the images
