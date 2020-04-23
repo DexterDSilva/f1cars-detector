@@ -34,6 +34,8 @@ Starting model = Resnet50
 To create a reasonably clean set of images I downladed the images to my MBP and in a Finder window i just scrolled through the images
 and deleted the ones that would appear confusing to the nn ie ones with two or more cars, model images, sketches etc
 
+# All images are in colour. Therefore the test images should also be in colour.
+
 See the f1cars-downloader.ipynb for info on downloading to a local directory\
 The data file is f1cars_images.zip
 
