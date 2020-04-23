@@ -1,10 +1,14 @@
 # f1cars-detector
 Fastai based example to detect current 2019-2020 cars
-
 Detects a car image belongs to either of\
 Ferrari, Mercedes, RedBull, RacingPoint, McLaren,Renault,ToroRosso,Williams, Haas, Sauber
-
 Note: These are the cars racing in the 2017 to 2019 season. 
+
+![alt text](https://github.com/DexterDSilva/f1cars-detector/master/fp-1.png "Selection")
+
+
+
+
 
 > Setup
 > Macbook Pro 2015 for downloading and sorting images 
