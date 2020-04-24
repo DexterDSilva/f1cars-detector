@@ -47,7 +47,7 @@ The data file is f1cars_images.zip
 
 The image directories can be uploaded to your Google drive
 
-My Google drive 
+In the noteboks you will see my Google drive as 
 '/content/drive/My Drive/fastai-v3/lesson2/f1cars/
 
 
