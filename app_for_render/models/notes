@@ -1,0 +1,17 @@
+The .pkl file export from fastai includes the arch, weigths, classes etc.
+
+The link to the trained model weights is here
+
+https://drive.google.com/open?id=1-46Gpl8Llla1qWjHW817dRJiVFRu8Cub
+
+The file is called 22Apr_f1cars_export.pkl
+
+Place this in the models folder.
+
+Edit the server.py file if required, to point to the pkl file.
+
+To run
+
+Change into you fastai env
+
+python app/server.py serve
