@@ -1,0 +1,4 @@
+Run the on thelocal machine
+22Apr_f1cars_export.pkl to be placed in models directory
+
+python app/server.py serve
