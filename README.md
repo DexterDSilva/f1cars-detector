@@ -18,6 +18,7 @@ Note: These are the cars racing in the 2017 to 2019 season.
 > Macbook Pro 2015 for downloading and sorting images 
 > Upload images to Google drive 
 > Use Google Colab with GPU for training
+> Chose ResNet50 after trial and error. Choice confirmed by [Pyimage](https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/)
 
 The notebook is based on Jeremy Howard's course-v3/lesson2-download
 from https://github.com/fastai/course-v3
