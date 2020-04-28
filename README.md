@@ -37,7 +37,7 @@ Nb Images/class: \
   108  images in  sauber\
 
 
-## Creating image dataset
+# Creating image dataset
 To create a reasonably clean set of images I downladed the images to my MBP and in a Finder window i just scrolled through the images
 and deleted the ones that would appear confusing to the nn ie ones with two or more cars, model images, sketches etc
 
@@ -51,6 +51,14 @@ The image directories can be uploaded to your Google drive
 In the noteboks you will see my Google drive as 
 '/content/drive/My Drive/fastai-v3/lesson2/f1cars/
 
+# The Resnet model
+ResNet was first introduced by He et al. in their seminal 2015 paper, Deep Residual Learning for Image Recognition — that paper has been cited an astonishing 43,064 times! [Pyimage](https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/)
+
+A follow-up paper in 2016, Identity Mappings in Deep Residual Networks, performed a series of ablation experiments, playing with the inclusion, removal, and ordering of various components in the residual module, ultimately resulting in a variation of ResNet that:
+
+- [x] Is easier to train
+- [x] Is more tolerant of hyperparameters, including regularization and initial learning rate
+- [x] Generalizes better
 
 
 
