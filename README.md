@@ -8,7 +8,7 @@ Note: These are the cars racing in the 2017 to 2019 season.
 
 # RESULT:
 
-![alt text](https://github.com/DexterDSilva/f1cars-detector/blob/master/fp-2.png "Result")
+![alt text](https://github.com/DexterDSilva/f1cars-detector/blob/master/fp-3.png "Results")
 
 
 
