@@ -66,6 +66,15 @@ I used Google colab and sometime after this training the torch version was upgra
 Use 
 > !pip install “torch==1.4” “torchvision==0.5.0”
 
+
+from fastai import __version__
+fastai.__version [op: 1.0.60]
+
+from fastai import *
+torch.__version__  [op: 1.4.0]
+
+
+
 Thanks to [fastai forum petrovi4](https://forums.fast.ai/t/lesson-2-getting-error-with-creating-imagedatabunch-from-folder/64137/25)
 
 
