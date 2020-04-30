@@ -67,11 +67,11 @@ Use
 > !pip install “torch==1.4” “torchvision==0.5.0”
 
 
-from fastai import __version__
-fastai.__version [op: 1.0.60]
+>from fastai import __version__
+> fastai.__version [op: 1.0.60]
 
-from fastai import *
-torch.__version__  [op: 1.4.0]
+> from fastai import *
+> torch.__version__  [op: 1.4.0]
 
 
 
