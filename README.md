@@ -64,7 +64,7 @@ A follow-up paper in 2016, Identity Mappings in Deep Residual Networks, performe
 I used Google colab and sometime after this training the torch version was upgraded which meant a lot of errors and inability to use augmentation.
 
 Use 
-> pip install “torch==1.4” “torchvision==0.5.0”
+> !pip install “torch==1.4” “torchvision==0.5.0”
 
 Thanks to [fastai forum petrovi4](https://forums.fast.ai/t/lesson-2-getting-error-with-creating-imagedatabunch-from-folder/64137/25)
 
