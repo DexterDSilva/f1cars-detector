@@ -1,3 +1,6 @@
+# Objective: Go through typical Deep Learning workflow for images based on fastai process. Use to test my understanding of the DL process and also as a basis for further tuning if required
+> Further work can use a different tre-tuned network if available
+
 # f1cars-detector
 Fastai based example to detect current 2019-2020 cars
 Detects a car image belongs to either of\
@@ -59,6 +62,8 @@ A follow-up paper in 2016, Identity Mappings in Deep Residual Networks, performe
 - [x] Is easier to train
 - [x] Is more tolerant of hyperparameters, including regularization and initial learning rate
 - [x] Generalizes better
+
+- [-] Imagenet has a few pics of "racer, race car, racing car" and does not have any pics of 'current' formula 1 racing cars [imagenet classes](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) 
 
 # Error handling
 I used Google colab and sometime after this training the torch version was upgraded which meant a lot of errors and inability to use augmentation.
