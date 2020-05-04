@@ -1,5 +1,5 @@
 # Objective: Go through typical Deep Learning workflow for images based on fastai process. Use to test my understanding of the DL process and also as a basis for further tuning if required
-> Further work can use a different tre-tuned network if available
+> Further work can use a different pre-trained network (Xception, Inception, VGG16, VGG19, MobileNet) and also on a different dataset (not Imagenet)
 
 # f1cars-detector
 Fastai based example to detect current 2019-2020 cars
